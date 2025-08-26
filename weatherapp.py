@@ -16,4 +16,5 @@ if 'weather' in data:
     print(f"The temperature in {user_input} is: {temp}°F")
 else:
     print("Error: Weather data not found.")
-    print(data)  # to see what the response was
+    print(data)  
+
